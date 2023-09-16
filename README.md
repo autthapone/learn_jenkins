@@ -34,5 +34,3 @@ docker exec jenkins-blueocean cat /var/jenkins_home/secrets/initialAdminPassword
 ## Connect to the Jenkins
 ```
 https://localhost:8080/
-User: bank
-Pass: P@ssw0rd
